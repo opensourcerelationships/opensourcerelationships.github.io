@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Open Source Relationships
-email: meph@opensourcerelationships.org
+# email: meph@opensourcerelationships.org
 description: >- # this means to ignore newlines until "baseurl:"
   A Community-Driven Resource for Non-Traditional Relationships
 baseurl: "" # the subpath of your site, e.g. /blog
