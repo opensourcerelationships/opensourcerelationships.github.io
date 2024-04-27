@@ -8,7 +8,7 @@ categories: penguicon
 
 **Welcome, Penguicon 2024 attendees!**
 
-I put this website and the (corresponding Github repo) together at the last minute before the con so that it can be unveiled at the [Open Souce Relationships panel](https://sched.co/1aFdB). 
+I put this website and the [corresponding Github repo](https://github.com/opensourcerelationships/opensourcerelationships.github.io) together at the last minute before the con so that it can be unveiled at the [Open Souce Relationships panel](https://sched.co/1aFdB). 
 
 This is more than a website. This is the genesis of a platform to build a community and organize resources for the purpose of education, growth, and most importantly, love. 
 
