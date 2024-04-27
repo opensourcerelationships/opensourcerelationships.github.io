@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Open Source Relationships is back at Penguicon"
+author: Meph
 date:   2024-04-26 02:40:06 -0400
-categories: jekyll update
+categories: penguicon
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+**Welcome, Penguicon 2024 attendees!**
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I put this website and the (corresponding Github repo) together at the last minute before the con so that it can be unveiled at the [Open Souce Relationships panel](https://sched.co/1aFdB). 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This is more than a website. This is the genesis of a platform to build a community and organize resources for the purpose of education, growth, and most importantly, love. 
 
-Jekyll also offers powerful support for code snippets:
+Nothing is set in stone, but I hope to put my 20 years of software and web development to good use through this journey. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+We will discuss next steps at the panel, so if you are seeing this, but you can't make it to Penguicon, stay tuned for more information!
